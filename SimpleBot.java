@@ -10,7 +10,6 @@ public class SimpleBot {
         remindName();
         guessAge();
         count();
-        // ...
         test();
         end();
     }
@@ -46,7 +45,6 @@ public class SimpleBot {
 
     static void test() {
         System.out.println("Let's test your programming knowledge.");
-        // write your code here
         System.out.println("Why do we use methods?\n" +
                 "1. To repeat a statement multiple times.\n" +
                 "2. To decompose a program into several small subroutines.\n" +
